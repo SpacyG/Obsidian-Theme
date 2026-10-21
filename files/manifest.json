@@ -1,0 +1,9 @@
+{
+  "id": "spacyg-cosmic-graph",
+  "name": "SpacyG Cosmic Graph",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Companion to the SpacyG Cosmic theme: a live, pointer-reactive starfield behind your graph views, and a 3D graph where notes arrange themselves into a sphere and linked notes follow when you drag one.",
+  "author": "SpacyG",
+  "isDesktopOnly": false
+}
